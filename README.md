@@ -1,5 +1,5 @@
 # testcs
-Test for CrowdStrike
+Test for CS
 
 
 ## Build
